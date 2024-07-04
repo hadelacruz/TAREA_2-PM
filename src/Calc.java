@@ -1,6 +1,7 @@
 /**
  * Esta clase proporciona métodos para realizar operaciones aritméticas básicas.
  */
+package src;
 public class Calc {
 
     /**

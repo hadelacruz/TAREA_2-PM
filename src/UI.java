@@ -1,3 +1,4 @@
+package src;
 import java.util.Scanner;
 
 public class UI {
@@ -26,13 +27,13 @@ public class UI {
                 
                 switch (opcion) {
                     case 1:
-                        //System.out.println("Suma: " + Calc.suma(num1, num2));
+                        System.out.println("Suma: " + Calc.suma(num1, num2));
                         break;
                     case 2:
-                        //System.out.println("Resta: " + Calc.resta(num1, num2));
+                        System.out.println("Resta: " + Calc.resta(num1, num2));
                         break;
                     case 3:
-                        //System.out.println("Multiplicación: " + Calc.multiplicacion(num1, num2));
+                        System.out.println("Multiplicación: " + Calc.multiplicacion(num1, num2));
                         break;
                 }
             } else if (opcion != 4) {
