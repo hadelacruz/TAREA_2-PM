@@ -3,6 +3,7 @@
         "."
     ],
     "java.project.referencedLibraries": [
-        "/Users/joseruiz_002/Documents/UVG/4to Semestre/Movil/TAREA_2-PM/lib/junit-platform-console-standalone-1.11.0-M2.jar"
+        "/Users/joseruiz_002/Documents/UVG/4to Semestre/Movil/TAREA_2-PM/lib/junit-platform-console-standalone-1.11.0-M2.jar",
+        "test-lib\\**\\*.jar"
     ]
 }
