@@ -27,8 +27,10 @@ public class UI {
                 
                 switch (opcion) {
                     case 1:
+
                         // CAMBIO PARA MOSTRAR CONFLICTO ESTUDIANTE 2
                         System.out.println("Resultado Suma: " + Calc.suma(num1, num2));
+
                         break;
                     case 2:
                         System.out.println("Resta: " + Calc.resta(num1, num2));
